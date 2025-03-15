@@ -1,5 +1,6 @@
-#
-#
+# Associando Conceitos de Comandos SQL com Lógica de Programação
+#  Reconhecendo Tipos de Dados no SQL
+
 
 # Descrição
 # Em um banco de dados relacional, diferentes tipos de dados são usados para armazenar informações específicas. Sua tarefa é implementar uma função que associe o nome de um tipo de dado SQL a sua descrição básica.
