@@ -4,3 +4,8 @@ O objetivo deste desafio é criar um dashboard de vendas, com foco na organizaç
 
 ## O que fazer
 Criar um dashboard de vendas no Excel.
+
+
+### Dashboard:
+
+<img src="dash.png">
